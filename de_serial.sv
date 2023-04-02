@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-//Written by sleepy_h(Kosyanov Oleg)
+//Written by sleepy_h(Kosyanov Oleg) and Dmitriy Aminev
 
 // de_serial - is parametric module of  Serializer(Deserializer).
 // IN - width of input bus.
