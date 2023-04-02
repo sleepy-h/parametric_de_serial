@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-//Written by sleepy_h(Kosyanov Oleg)
+//Written by sleepy_h(Kosyanov Oleg) and Aminev Dmitriy
 
 // Parametric testbench of de_serial module
 // IN - width of input bus.
